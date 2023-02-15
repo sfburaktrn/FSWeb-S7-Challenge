@@ -1,0 +1,47 @@
+.Siparis {
+  border-radius: 15px;
+  background-color: #a0a4f5;
+}
+.headPizza {
+  border-radius: 150px;
+}
+
+#special-text {
+  width: 500px;
+  height: 50px;
+}
+.pMalzemeler {
+  display: flex;
+  justify-content: center;
+}
+.pBiber {
+  display: flex;
+  align-items: center;
+}
+
+.pSosis {
+  display: flex;
+  align-items: center;
+}
+
+.pMısır {
+  display: flex;
+  align-items: center;
+}
+.pZeytin {
+  display: flex;
+  align-items: center;
+}
+h3 {
+  color: black;
+}
+.pButonn {
+  background-color: tomato;
+  color: white;
+  width: 10%;
+}
+.pButon {
+  background: tomato;
+  color: white;
+  width: 10%;
+}
